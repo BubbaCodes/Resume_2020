@@ -1,0 +1,61 @@
+body {
+    background: #e9ecef;
+    padding-bottom: 275px;
+}
+.navbar-brand {
+    font-weight: 800;
+}
+.nav {
+    float: right;
+}
+a.nav-link {
+    color: black !important;
+    text-shadow: 3px 2px 5px rgba(0, 0, 0, 0.418);
+    
+    
+}
+.bg-light {
+    background-color:  rgba(248,249,250,.9) !important;;
+   
+    
+}
+
+#mainSection {
+    border: 25px solid #f8f9fa;
+    margin-top: 95px;
+    
+}
+
+p {
+    text-indent: 50px;
+    border-left: 15px solid #f8f9fa;
+    padding-left: 10px;
+    
+}
+p::first-letter {
+    font-size: 2.1rem;
+    font-family: 'Dancing Script', cursive;
+}
+
+div img {
+    width: 500px;
+}
+.headings {
+    text-align: center;
+    
+}
+.container {
+   
+   
+}
+.row {
+    margin-top: 20px;
+}
+h6 {
+    text-decoration: underline;
+}
+#resume {
+    width: 50%;
+    border-bottom: 3px solid black;
+    font-family: 'Dancing Script', cursive;
+}
